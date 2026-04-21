@@ -49,27 +49,6 @@ The project includes **10+ graphs** to understand how different chemical propert
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/wine-quality-analysis-python.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd wine-quality-analysis-python
-   ```
-
-3. Run the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
----
 
 ## 📁 Project Structure
 
